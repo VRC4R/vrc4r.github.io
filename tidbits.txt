@@ -1,0 +1,73 @@
+Other cool stuff.
+
+Graham Gaylor’s Blog Archives:
+	https://web.archive.org/web/*/https://grahamgaylor.com/*
+
+Reverend Kyle’s lost interview with Graham Gaylor:
+	https://web.archive.org/web/20140331230831/http://www.reverendkyle.com/index.php/articles/241-rev-vr-podcast-episode-40
+	https://www.stitcher.com/show/rev-vr-podcast/episode/rev-vr-podcast-episode-40-31746180
+	"This episode of the Rev VR Podcast is an exclusive interview with the developer of VR Chat, Graham Gaylor.  VR Chat is, in my opinion, is one of the 'killer apps' that Oculus Rift owners have been dying to try.  A virtual meeting place, complete with push-to-talk chat capabilities and avatars, all done in Unity.  With hosted networking and a wonderful coffee shop to start with, VR Chat is the start of something no short of amazing.  Graham is releasing v0.1 around the same time I release this podcast, and I can't wait to hear everyone's feedback.  Is it perfect?  No, but it has the best recipe for success in this genre of apps.  Try it out and if you are a developer with the skills needed to help Graham along, please reach out to him."
+	// Stitcher tries to stream an MP3 of the podcast from Reverend’s site, which has been down for some time now.
+
+Old Events Page with Halloween Meetup Info:
+	https://archive.fo/h6qRu
+
+(Unmodified Fork of) VRChat's Pre-v0.1 Source Code (explanation in the description of the Internet Archive page):
+	https://github.com/Kr1sp3r/VRChat
+	https://web.archive.org/web/20220522190054/https://github.com/Kr1sp3r/VRChat
+	https://codeload.github.com/Kr1sp3r/VRChat/zip/refs/heads/master
+	https://web.archive.org/web/20210713053319/https://codeload.github.com/Kr1sp3r/VRChat/zip/refs/heads/master
+	https://archive.org/details/vrchat-v0-source
+
+Archived Arch Linux AUR Entry for VRChat:
+	https://github.com/aur-archive/vrchat/blob/master/PKGBUILD
+	https://web.archive.org/web/20220522190139/https://github.com/aur-archive/vrchat/blob/master/PKGBUILD
+
+Day 0 Release Post on Reddit:
+	https://www.reddit.com/r/oculus/comments/1vcbwk/vrchat_v01_released/
+	https://web.archive.org/web/20220522190222/https://www.reddit.com/r/oculus/comments/1vcbwk/vrchat_v01_released/
+	https://old.reddit.com/r/oculus/comments/1vcbwk/vrchat_v01_released/
+	https://web.archive.org/web/20220522190243/https://old.reddit.com/r/oculus/comments/1vcbwk/vrchat_v01_released/
+
+Graham Gaylor’s Reddit:
+	https://old.reddit.com/u/gg67
+	https://reddit.com/u/gg67
+
+Graham Gaylor referring to VRChat as the “Metaverse” years and years ago:
+	https://reddit.com/r/oculus/comments/20kegl/vrchat_v035_released/
+	https://web.archive.org/web/20220522191116/https://www.reddit.com/r/oculus/comments/20kegl/vrchat_v035_released/
+	https://old.reddit.com/r/oculus/comments/20kegl/vrchat_v035_released/
+	https://web.archive.org/web/20220522191126/https://old.reddit.com/r/oculus/comments/20kegl/vrchat_v035_released/
+
+Feedback form for v0.1 of VRChat, still active today:
+	https://docs.google.com/forms/d/e/1FAIpQLScYbDUhzpMofTS_NwX5WDjMiz58iMNzykta801u3UYmemY5Ew/viewform
+	https://web.archive.org/web/20220522191348/https://docs.google.com/forms/d/e/1FAIpQLScYbDUhzpMofTS_NwX5WDjMiz58iMNzykta801u3UYmemY5Ew/viewform
+
+Day zero release footage:
+	https://www.youtube.com/watch?v=cnaRtUGdV6A
+	https://web.archive.org/web/20220522044035/https://www.youtube.com/watch?v=cnaRtUGdV6A
+	https://archive.org/details/vrchat_dayzero
+
+"An inside look at VRChat with Glass City":
+	https://www.youtube.com/watch?v=vEt1_uzAGI4
+	https://web.archive.org/web/20190412153154/https://www.youtube.com/watch?v=vEt1_uzAGI4
+	https://archive.org/details/glasscity_202206
+
+Carl White VRChat Interviews:
+	https://vimeo.com/111759821
+	https://web.archive.org/web/20220522043411/https://vimeo.com/111759821
+	https://archive.org/details/cwhite_vrc_interview
+	https://vimeo.com/112215004
+	https://web.archive.org/web/20220522043420/https://vimeo.com/112215004
+	https://archive.org/details/cwhite_vrc_brcol
+
+Old (2017?) VRChat trailer, reposted:
+	https://www.youtube.com/watch?v=d23yO6XbjfQ
+	https://web.archive.org/web/20220522043652/https://www.youtube.com/watch?v=d23yO6XbjfQ
+	https://archive.org/details/old_vrchat_trailer
+
+Jesse Joudrey's YouTube channel:
+	https://www.youtube.com/channel/UChwNvQp5HMs0yDERG2hIZbQ
+
+VR Pill's Youtube channel:
+	https://www.youtube.com/c/Vrpill/videos

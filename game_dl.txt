@@ -1,0 +1,364 @@
+Notes:
+- If you’re looking for anything from v0.11.5+, refer to the “manifests.txt” document. There ARE builds from v0.11.5 onwards hosted on the Cloudfront host, but as these builds are still available on Steam today, I have not listed them here.
+
+v0.5.19:
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_w_0_5_19_dx11.zip
+	https://web.archive.org/web/20220520012807/https://s3.amazonaws.com/vrc-archives/stable/vrchat_w_0_5_19_dx11.zip
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_w_0_5_19_dx9.zip
+	https://web.archive.org/web/20220520012828/https://s3.amazonaws.com/vrc-archives/stable/vrchat_w_0_5_19_dx9.zip
+	https://archive.org/details/vrchat_w_0_5_19
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_m_0_5_19.zip
+	https://web.archive.org/web/20200610035122/https://s3.amazonaws.com/vrc-archives/stable/vrchat_m_0_5_19.zip
+	https://archive.org/details/vrchat_m_0_5_19
+v0.5.20:
+	// Windows links died before I could put them on the Wayback Machine. They are kept here for historical purposes. Apologies.
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_w_0_5_20_dx11.zip
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_w_0_5_20_dx9.zip
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_5_20.zip
+	https://web.archive.org/web/20220520013032/https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_5_20.zip
+	https://archive.org/details/vrchat_m_0_5_20
+v0.6.2
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_2.zip
+	https://web.archive.org/web/20220520013751/https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_2.zip
+	https://archive.org/details/vrchat_m_0_6_2
+v0.6.3
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_w_0_6_3.zip
+	https://web.archive.org/web/20220520013815/https://s3.amazonaws.com/vrc-archives/release/vrchat_w_0_6_3.zip
+	https://archive.org/details/vrchat_w_0_6_3
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_3.zip
+	https://web.archive.org/web/20220520013959/https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_3.zip
+	https://archive.org/details/vrchat_m_0_6_3
+v0.6.5
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_w_0_6_5.zip
+	https://web.archive.org/web/20220520014017/https://s3.amazonaws.com/vrc-archives/release/vrchat_w_0_6_5.zip
+	https://archive.org/details/vrchat_w_0_6_5
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_5.zip
+	https://web.archive.org/web/20220520014018/https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_5.zip
+	https://archive.org/details/vrchat_m_0_6_5
+v0.6.6
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_w_0_6_6.zip
+	https://web.archive.org/web/20220520014202/https://s3.amazonaws.com/vrc-archives/release/vrchat_w_0_6_6.zip
+	https://archive.org/details/vrchat_w_0_6_6_vrcar
+	https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_6.zip
+	https://web.archive.org/web/20220520014202/https://s3.amazonaws.com/vrc-archives/release/vrchat_m_0_6_6.zip
+	https://archive.org/details/vrchat_m_0_6_6
+v0.7.0 // unlisted in the changelog?
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.0.exe
+	https://web.archive.org/web/20220520014437/https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.0.exe
+	https://archive.org/details/vrchat-setup-0.7.0
+v0.7.1
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.1.exe
+	https://web.archive.org/web/20220520014518/https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.1.exe
+	https://archive.org/details/vrchat-setup-0.7.1
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.1.dmg
+	https://web.archive.org/web/20220520014521/https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.1.dmg
+	https://archive.org/details/vrchat-0.7.1
+v0.7.2
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.2.exe
+	https://web.archive.org/web/20220520014529/https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.2.exe
+	https://archive.org/details/vrchat-setup-0.7.2
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.2.dmg
+	https://web.archive.org/web/20220520014604/https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.2.dmg
+	https://archive.org/details/vrchat-0.7.2
+v0.7.3
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.3.exe
+	https://web.archive.org/web/20220520014905/https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.3.exe
+	https://archive.org/details/vrchat-setup-0.7.3
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.3.dmg
+	https://web.archive.org/web/20220520014910/https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.3.dmg
+	https://archive.org/details/vrchat-0.7.3
+v0.7.4
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.4.exe
+	https://web.archive.org/web/20220520015004/https://s3.amazonaws.com/vrc-archives/release/VRChat_Setup_0.7.4.exe
+	https://archive.org/details/vrchat-setup-0.7.4
+	https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.4.dmg
+	https://web.archive.org/web/20220520015014/https://s3.amazonaws.com/vrc-archives/release/VRChat_0.7.4.dmg
+	https://archive.org/details/vrchat-0.7.4
+v0.7.5
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.5.exe
+	https://web.archive.org/web/20200610034410/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.5.exe
+	https://archive.org/details/vrchat-setup-0.7.5
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.5.dmg
+	https://web.archive.org/web/20220520015603/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.5.dmg
+	https://archive.org/details/vrchat-0.7.5
+v0.7.6
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.6.exe
+	https://web.archive.org/web/20220520015742/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.6.exe
+	https://archive.org/details/vrchat-setup-0.7.6
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.6.dmg
+	https://web.archive.org/web/20220520015746/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.6.dmg
+	https://archive.org/details/vrchat-0.7.6
+v0.7.7
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.7.exe
+	https://web.archive.org/web/20220520015823/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.7.exe
+	https://archive.org/details/vrchat-setup-0.7.7
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.7.dmg
+	https://web.archive.org/web/20220520015822/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.7.dmg
+	https://archive.org/details/vrchat-0.7.7
+v0.7.8
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.8.exe
+	https://web.archive.org/web/20220520020437/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.8.exe
+	https://archive.org/details/vrchat-setup-0.7.8
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.8.dmg
+	https://web.archive.org/web/20220520020521/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.8.dmg
+	https://archive.org/details/vrchat-0.7.8
+v0.7.9
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.9.exe
+	https://web.archive.org/web/20220520150531/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.7.9.exe
+	https://archive.org/details/vrchat-setup-0.7.9
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.9.dmg
+	https://web.archive.org/web/20201224235853/http://s3.amazonaws.com/vrc-archives/stable/VRChat_0.7.9.dmg
+	https://archive.org/details/vrchat-0.7.9
+v0.8.0
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.0.exe
+	https://web.archive.org/web/20220520150604/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.0.exe
+	https://archive.org/details/vrchat-setup-0.8.0
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.0.dmg
+	https://web.archive.org/web/20220520150609/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.0.dmg
+	https://archive.org/details/vrchat-0.8.0
+v0.8.1
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.1.exe
+	https://web.archive.org/web/20220520160342/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.1.exe
+	https://archive.org/details/vrchat-setup-0.8.1
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.1.dmg
+	https://web.archive.org/web/20220520160346/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.1.dmg
+	https://archive.org/details/vrchat-0.8.1
+v0.8.2
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.2.exe
+	https://web.archive.org/web/20220520160407/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.2.exe
+	https://archive.org/details/vrchat-setup-0.8.2
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.2.dmg
+	https://web.archive.org/web/20220520160412/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.2.dmg
+	https://archive.org/details/vrchat-0.8.2
+v0.8.3
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.3.exe
+	https://web.archive.org/web/20220520161141/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.3.exe
+	https://archive.org/details/vrchat-setup-0.8.3
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.3.dmg
+	https://web.archive.org/web/20220520161147/https://s3.amazonaws.com/vrc-archives/stable/VRChat_0.8.3.dmg
+	https://archive.org/details/vrchat-0.8.3
+v0.8.5
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.5.exe
+	https://web.archive.org/web/20220520162902/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.5.exe
+	https://archive.org/details/vrchat-setup-0.8.5
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.8.5.zip
+	https://web.archive.org/web/20220520162906/https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.8.5.zip
+	https://archive.org/details/vrchat_mac_0.8.5
+v0.8.6b1
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b1.zip
+	https://web.archive.org/web/20220520162935/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b1.zip
+	https://archive.org/details/vrchat_win_0.8.6b1
+v0.8.6b2
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b2.zip
+	https://web.archive.org/web/20220520162939/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b2.zip
+	https://archive.org/details/vrchat_win_0.8.6b2
+v0.8.6b3
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b3.zip
+	https://web.archive.org/web/20220520163750/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b3.zip
+	https://archive.org/details/vrchat_win_0.8.6b3
+v0.8.6b4
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b4.zip
+	https://web.archive.org/web/20220520163757/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b4.zip
+	https://archive.org/details/vrchat_win_0.8.6b4
+v0.8.6b5
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b5.zip
+	https://web.archive.org/web/20220520163834/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b5.zip
+	https://archive.org/details/vrchat_win_0.8.6b5
+v0.8.6b6
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b6.zip
+	https://web.archive.org/web/20220520164706/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.6b6.zip
+	https://archive.org/details/vrchat_win_0.8.6b6
+v0.8.6
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.6.exe
+	https://web.archive.org/web/20220520164721/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.6.exe
+	https://archive.org/details/vrchat-setup-0.8.6
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.8.6.zip
+	https://web.archive.org/web/20220520164725/https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.8.6.zip
+	https://archive.org/details/vrchat_mac_0.8.6
+v0.8.7b1
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.7b1.zip
+	https://web.archive.org/web/20220520164741/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.7b1.zip
+	https://archive.org/details/vrchat_win_0.8.7b1
+v0.8.7b2
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.7b2.zip
+	https://web.archive.org/web/20220520165533/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.8.7b2.zip
+	https://archive.org/details/vrchat_win_0.8.7b2
+v0.8.7
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.7.exe
+	https://web.archive.org/web/20220520165545/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.8.7.exe
+	https://archive.org/details/vrchat-setup-0.8.7
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.8.7.zip
+	https://web.archive.org/web/20220520165552/https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.8.7.zip
+	https://archive.org/details/vrchat_mac_0.8.7
+v0.9.0b1
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b1.zip
+	https://web.archive.org/web/20220520165811/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b1.zip
+	https://archive.org/details/vrchat_win_0.9.0b1
+v0.9.0b2
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b2.zip
+	https://web.archive.org/web/20220520165818/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b2.zip
+	https://archive.org/details/vrchat_win_0.9.0b2
+v0.9.0b3
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b3.zip
+	https://web.archive.org/web/20220520172355/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b3.zip
+	https://archive.org/details/vrchat_win_0.9.0b3
+v0.9.0b4
+	https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b4.zip
+	https://web.archive.org/web/20220520172408/https://s3.amazonaws.com/vrc-archives/unstable/vrchat_win_0.9.0b4.zip
+	https://archive.org/details/vrchat_win_0.9.0b4
+v0.9.0
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.0.exe
+	https://web.archive.org/web/20220520172421/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.0.exe
+	https://archive.org/details/vrchat-setup-0.9.0
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.9.0.zip
+	https://web.archive.org/web/20220520172432/https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.9.0.zip
+	https://archive.org/details/vrchat_mac_0.9.0
+v0.9.0p1
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.0p1.exe
+	https://web.archive.org/web/20220520182603/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.0p1.exe
+	https://archive.org/details/vrchat-setup-0.9.0p1
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.9.0p1.zip
+	https://web.archive.org/web/20220520182613/https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.9.0p1.zip
+	https://archive.org/details/vrchat_mac_0.9.0p1
+v0.9.0p2
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.0p2.exe
+	https://web.archive.org/web/20220520182638/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.0p2.exe
+	https://archive.org/details/vrchat-setup-0.9.0p2
+v0.9.0p3
+	https://s3.amazonaws.com/vrc-archives/stable/0.9.0p3/VRChat_Setup_0.9.0p3.exe
+	https://web.archive.org/web/20220520182650/https://s3.amazonaws.com/vrc-archives/stable/0.9.0p3/VRChat_Setup_0.9.0p3.exe
+	https://archive.org/details/vrchat-setup-0.9.0p3
+v0.9.1
+	https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.1.exe
+	https://web.archive.org/web/20220520191309/https://s3.amazonaws.com/vrc-archives/stable/VRChat_Setup_0.9.1.exe
+	https://archive.org/details/vrchat-setup-0.9.1
+	https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.9.1.zip
+	https://web.archive.org/web/20220520191317/https://s3.amazonaws.com/vrc-archives/stable/vrchat_mac_0.9.1.zip
+	https://archive.org/details/vrchat_mac_0.9.1
+v0.9.1p1
+	https://d8zlo8exwu24u.cloudfront.net/release/VRChat_Setup_0.9.1p1.exe
+	https://web.archive.org/web/20220520191326/https://d8zlo8exwu24u.cloudfront.net/release/VRChat_Setup_0.9.1p1.exe
+	https://archive.org/details/vrchat-setup-0.9.1p-1
+	https://d8zlo8exwu24u.cloudfront.net/release/vrchat_mac_0.9.1p1.zip
+	https://web.archive.org/web/20220520191424/https://d8zlo8exwu24u.cloudfront.net/release/vrchat_mac_0.9.1p1.zip
+	https://archive.org/details/vrchat_mac_0.9.1p1
+v0.9.1p1.5
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Setup_0.9.1p1.5.exe
+	https://web.archive.org/web/20220520191617/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Setup_0.9.1p1.5.exe
+	https://archive.org/details/vrchat-setup-0.9.1p-1.5
+v0.9.2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.9.2.exe
+	https://web.archive.org/web/20220520191629/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.9.2.exe
+	https://archive.org/details/vrchat-oculus-0.9.2
+v0.9.2p1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.9.2p1.exe
+	https://web.archive.org/web/20220520191649/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.9.2p1.exe
+	https://archive.org/details/vrchat-oculus-0.9.2p-1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Vive_0.9.2p1.exe
+	https://web.archive.org/web/20220520191648/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Vive_0.9.2p1.exe
+	https://archive.org/details/vrchat-vive-0.9.2p-1
+v0.9.3
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.9.3.exe
+	https://web.archive.org/web/20220520204547/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.9.3.exe
+	https://archive.org/details/vrchat-oculus-0.9.3
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Vive_0.9.3.exe
+	https://web.archive.org/web/20220520204554/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Vive_0.9.3.exe
+	https://archive.org/details/vrchat-vive-0.9.3
+v0.10.0
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.10.0.exe
+	https://web.archive.org/web/20220520204627/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.10.0.exe
+	https://archive.org/details/vrchat-oculus-0.10.0
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.10.0.exe
+	https://web.archive.org/web/20220520204634/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.10.0.exe
+	https://archive.org/details/vrchat-steam-0.10.0
+v0.10.1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.10.1.exe
+	https://web.archive.org/web/20220520210050/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.10.1.exe
+	https://archive.org/details/vrchat-oculus-0.10.1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.10.1.exe
+	https://web.archive.org/web/20220520210054/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.10.1.exe
+	https://archive.org/details/vrchat-steam-0.10.1
+v0.10.2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.10.2.exe
+	https://web.archive.org/web/20220520210117/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.10.2.exe
+	https://archive.org/details/vrchat-oculus-0.10.2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.10.2.exe
+	https://web.archive.org/web/20220520210126/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.10.2.exe
+	https://archive.org/details/vrchat-steam-0.10.2
+v0.11.0
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.0.exe
+	https://web.archive.org/web/20220520210443/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.0.exe
+	https://archive.org/details/vrchat-oculus-0.11.0
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.0.exe
+	https://web.archive.org/web/20220520210451/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.0.exe
+	https://archive.org/details/vrchat-steam-0.11.0
+v0.11.1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.1.exe
+	https://web.archive.org/web/20220521025803/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.1.exe
+	https://archive.org/details/vrchat-oculus-0.11.1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.1.exe
+	https://web.archive.org/web/20220521025815/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.1.exe
+	https://archive.org/details/vrchat-steam-0.11.1
+v0.11.2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.2.exe
+	https://web.archive.org/web/20220521025831/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.2.exe
+	https://archive.org/details/vrchat-oculus-0.11.2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.2.exe
+	https://web.archive.org/web/20220521025837/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.2.exe
+	https://archive.org/details/vrchat-steam-0.11.2
+v0.11.3
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.3.exe
+	https://web.archive.org/web/20220521030442/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.3.exe
+	https://archive.org/details/vrchat-oculus-0.11.3
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.3.exe
+	https://web.archive.org/web/20220521030449/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.3.exe
+	https://archive.org/details/vrchat-steam-0.11.3
+v0.11.3p1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.3p1.exe
+	https://web.archive.org/web/20220521030504/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.3p1.exe
+	https://archive.org/details/vrchat-oculus-0.11.3p-1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.3p1.exe
+	https://web.archive.org/web/20220521030510/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.3p1.exe
+	https://archive.org/details/vrchat-steam-0.11.3p-1
+v0.11.3p2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.3p2.exe
+	https://web.archive.org/web/20220521031026/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.3p2.exe
+	https://archive.org/details/vrchat-oculus-0.11.3p-2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.3p2.exe
+	https://web.archive.org/web/20220521031034/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.3p2.exe
+	https://archive.org/details/vrchat-steam-0.11.3p-2
+v0.11.4
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4.exe
+	https://web.archive.org/web/20220521031044/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4.exe
+	https://archive.org/details/vrchat-oculus-0.11.4
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4.exe
+	https://web.archive.org/web/20220521031050/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4.exe
+	https://archive.org/details/vrchat-steam-0.11.4
+v0.11.4p1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p1.exe
+	https://web.archive.org/web/20220521031457/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p1.exe
+	https://archive.org/details/vrchat-oculus-0.11.4p-1
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p1.exe
+	https://web.archive.org/web/20220521031502/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p1.exe
+	https://archive.org/details/vrchat-steam-0.11.4p-1
+v0.11.4p2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p2.exe
+	https://web.archive.org/web/20220521031520/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p2.exe
+	https://archive.org/details/vrchat-oculus-0.11.4p-2
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p2.exe
+	https://web.archive.org/web/20220521031525/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p2.exe
+	https://archive.org/details/vrchat-steam-0.11.4p-2
+v0.11.4p3
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p3.exe
+	https://web.archive.org/web/20220521032205/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p3.exe
+	https://archive.org/details/vrchat-oculus-0.11.4p-3
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p3.exe
+	https://web.archive.org/web/20220521032211/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p3.exe
+	https://archive.org/details/vrchat-steam-0.11.4p-3
+v0.11.4p4
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p4.exe
+	https://web.archive.org/web/20220521032222/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Oculus_0.11.4p4.exe
+	https://archive.org/details/vrchat-oculus-0.11.4p-4
+	https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p4.exe
+	https://web.archive.org/web/20220521032229/https://d8zlo8exwu24u.cloudfront.net/stable/VRChat_Steam_0.11.4p4.exe
+	https://archive.org/details/vrchat-steam-0.11.4p-4

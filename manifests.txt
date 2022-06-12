@@ -1,0 +1,79 @@
+VRChat Steam manifests labelled by version, from release to June of 2018.
+
+Time, date, manifest numbers all sourced from SteamDB. Only public branch releases listed here. This means that I have not listed or labelled any open betas or developer tests. I only labelled manifests with version numbers if I was absolutely sure that they corresponded with their respective manifests - so, only if they matched up with Steam announcements or archived changelogs. Anything labelled as "???" is an unnanounced patch.
+
+To download any of these manifests, I reccommend using...
+	https://github.com/SteamRE/DepotDownloader
+
+// v2018.2.2 + patches
+v2018.2.2:		26 June 2018		18:29:10 UTC 209328814990765356
+
+// v2018.2.1 + patches
+???:			12 June 2018		22:53:02 UTC 4023918473746247546
+v2018.2.1:		12 June 2018		17:13:51 UTC 6310692627028477729
+
+// v2018.1.3 + patches
+v2018.1.3:		29 May 2018		18:07:53 UTC 398008014470944204
+
+// v2018.1.2 + patches
+???:			24 May 2018		19:35:34 UTC 6765089190357809183
+???:			14 May 2018		21:36:03 UTC 1778511645515171368
+???:			10 May 2018		21:18:34 UTC 8553882723366190888
+v2018.1.2:		10 May 2018		16:59:31 UTC 8576992998406419210
+
+// v2018.1.1 + patches
+???:			25 April 2018		20:38:51 UTC 5245663748013165026
+???:			25 April 2018		17:28:37 UTC 5160552594459427545
+v2018.1.1:		24 April 2018		18:13:02 UTC 4255967479667623411
+
+// When they changed the naming process to include the year in the version number, they stopped releasing patch notes for small patches and just pushed them.
+// v0.12.0p14 was unannounced, but it came between two manifests that do match up with steam/patch note updates, so we can kind of just connect the dots here.
+
+// v0.12.0 + named & unnamed patches
+v0.12.0p16:		8 March 2018		01:58:10 UTC 865909190722049025	
+v0.12.0p15:		28 February 2018	20:27:36 UTC 5988260554271098446
+v0.12.0p14:		25 February 2018	04:11:13 UTC 6569120286860876411
+v0.12.0p13:		23 February 2018	23:33:20 UTC 6804767044205431927
+v0.12.0p12:		2 February 2018		15:06:53 UTC 3631140643376757069
+v0.12.0p11:		30 January 2018		07:57:58 UTC 7412257005761547552
+v0.12.0p10:		22 January 2018		21:02:03 UTC 4631238561818826660
+// Patches v0.12.0p7 through v0.12.0.p9 are among the five below, which ones are which I don't know.
+???:			17 January 2018		21:17:12 UTC 5014013224453675514
+???:			16 January 2018		06:03:42 UTC 8515884453731956068
+???:			14 January 2018		01:45:48 UTC 7841050207811096068
+???:			13 January 2018		19:01:39 UTC 2215846771145778168
+???:			13 January 2018		17:37:09 UTC 7874799799157931961
+v0.12.0p6:		11 January 2018		19:47:39 UTC 6278323607117559656
+v0.12.0p5:		8 January 2018		19:56:08 UTC 7767610944340658464	// Unannounced update, seen in "open letter" announcement on steam.
+v0.12.0p4:		6 January 2018		20:18:37 UTC 5491253317912058954
+???:			14 December 2017	23:37:43 UTC 5373176803442939513
+v0.12.0p3:		14 December 2017	19:35:34 UTC 2986434510437006181
+v0.12.0p2:		27 October 2017		17:07:09 UTC 8387820764706809105
+v0.12.0p1:		5 October 2017		17:57:31 UTC 5501085916489639125
+???:			6 September 2017	01:28:27 UTC 3196833747033347869
+v0.12.0:		30 August 2017		18:59:21 UTC 171590510535888752
+
+// v0.11.7 + named & unnamed patches
+v0.11.7p6:		7 June 2017 		17:52:39 UTC 472082448826029317
+???:			15 May 2017 		20:15:53 UTC 225258206742752162
+???:			2 May 2017		23:42:42 UTC 6381348385974180760
+v0.11.7p2:		2 May 2017		21:55:12 UTC 2821231347757683895
+v0.11.7p1:		25 April 2017		22:53:29 UTC 8827588170694477519
+v0.11.7:		13 April 2017		23:39:33 UTC 4529301289973027324
+
+// v0.11.6 + named patches
+v0.11.6p1:		9 March 2017		22:18:24 UTC 230778622514395557
+v0.11.6:		6 March 2017		19:31:11 UTC 3356481223320836879
+
+// v0.11.5 + named patches
+v0.11.5p10:		13 February 2017	23:50:55 UTC 5705766906747363171
+v0.11.5p9:		12 February 2017	20:38:30 UTC 1192475474799680243
+v0.11.5p8:		12 February 2017	00:14:53 UTC 4431632403613716451
+v0.11.5p7:		11 February 2017	06:10:56 UTC 387014729099417756
+v0.11.5p6:		11 February 2017	02:31:06 UTC 5124456733332456393
+v0.11.5p5:		10 February 2017	05:26:05 UTC 2220475864969015007
+v0.11.5p4:		10 February 2017	04:12:23 UTC 1995231390930723981
+v0.11.5p3:		9 February 2017		06:56:10 UTC 7269899204560599324
+v0.11.5p2:		8 February 2017		04:38:33 UTC 69514341168340639
+v0.11.5p1:		5 February 2017		03:13:35 UTC 763422550767429371
+v0.11.5:		1 February 2017		21:59:31 UTC 4628352387209870150

@@ -1,0 +1,34 @@
+VRCAR (VRChatARchive) is a project that aims to find & archive important bits of VRChat's history, including, but not limited to clients, SDKs, interviews, historical worlds, and historical avatars. This site exists as a resource to everything found as part of the project.
+
+This project was born out of it's creator's borderline obsession for two things: VRChat, and general game development history. VRCAR's creator made public their findings at the beginning of June 2022, after nearly a year of on-and-off work on the project, in the form of uploads on the Internet Archive (https://archive.org/details/@vrcar) and this site that you see here.
+
+Before VRChat made it’s way onto Steam, content was hosted in at least five different places:
+- A now-dead Dropbox account,
+- a (dead) Amazon S3 bucket, (https://s3.amazonaws.com/vrc-archive/)
+- another S3 bucket used specifically for worlds, (https://s3.amazonaws.com/vrc-worlds/)
+- a final Amazon S3 bucket, (https://s3.amazonaws.com/vrc-archives/)
+- and a Cloudfront host. (https://d8zlo8exwu24u.cloudfront.net/)
+
+Most content pre-v0.6.0 was hosted on the dead Dropbox account.
+It's my understanding that the "vrc-archive" bucket was used for only a short while before transferring to the "vrc-archives" bucket.
+
+Any content post-v0.6.0 is hosted on the latter two sources, in directories...
+	/dev/ for ??? (unknown what this holds, but I know the directory exists)
+	/release/ & /stable/ for stable/release clients of VRChat, up to v0.11.X
+	/unstable/ for beta clients of VRChat
+	/sdk/ for VRCSDK releases
+
+Files within the directories are available to download, but the directories' indexes themselves aren't available. A large portion of content hosted on these directories was found by strategically guessing the filenames based on previous, and somewhat scarce, archives of clients & webpages.
+
+VRCAR is looking for...
+	- Any builds from v0.5.18 and below
+	- Any SDKs not linked here, older or newer
+	- Client version v0.5.20, Windows
+	- Client version v0.6.2, Windows
+	- Changelogs for any version from v0.7.7 to v0.11.4p4
+	- Reverend Kyle's interview with Graham Gaylor
+	- ...a way to host servers for these builds... ;)
+	
+If you have anything listed above, would like to make a contribution to the project in some way, would like to report any mistakes, would like to join the team, or would like to get in contact for whatever reason, please email vrcar@riseup.net.
+
+If it wasn't obvious enough, VRCAR isn't affiliated with VRChat or any of it's team!

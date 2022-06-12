@@ -1,0 +1,197 @@
+v0.11.5+ are on VRChat’s official website:
+https://docs.vrchat.com/docs/patch-notes-pre-2018
+https://web.archive.org/web/20220516021716/https://docs.vrchat.com/docs/patch-notes-pre-2018
+https://docs.vrchat.com/docs/patch-notes-2018
+https://web.archive.org/web/20220522195007/https://docs.vrchat.com/docs/patch-notes-2018
+https://docs.vrchat.com/docs/patch-notes-2019
+https://web.archive.org/web/20220522194956/https://docs.vrchat.com/docs/patch-notes-2019
+https://docs.vrchat.com/docs/patch-notes-2020
+https://web.archive.org/web/20220522194952/https://docs.vrchat.com/docs/patch-notes-2020
+Changelogs can also be found as announcements on VRChat's Steam page.
+
+v0.8.7 (9/1/2015)
+Changes
+    Panos now saved in Pictures/VRChat.
+Fixes
+    Potential fix for worlds getting stuck at 100%
+    Avatar downloading fixes.
+Known Bugs
+    Headlook does not work when using a monitor.
+
+v0.8.3 (6/2/2015)
+Features
+    Client supports all stock Unity camera post-process scripts (drag scripts onto reference cam).
+Changes
+    Whitelist for DLL asset urls (email us to get on whitelist if you want to use custom scripts).
+Fixes
+    Users can close their persistent rooms.
+
+v0.7.6 (4/19/2015)
+Fixes
+    Nametag text fix
+
+v0.7.5 (4/18/2015)
+Features
+    Change web view url in game
+    Change web view volume in game
+Fixes
+    New users no longer start with empty nametag
+
+v0.7.4 (4/5/2015)
+Fixes
+    Room List tweaks
+    Black screen fix for new users
+
+v0.7.3 (4/3/2015)
+Features
+    Room list viewable online
+    Single webpages can be built into rooms
+    New auto update system
+Fixes
+    Room List data more accurate
+    Pop out of station bug fixed
+
+v0.7.2 (3/27/2015)
+Features
+    Anti-troll tools
+
+v0.7.1 (3/20/2015)
+Features
+    Vehicle Stations - Check out the RaceTrack!
+    Interaction ball - Pressing the interact to show the interact ball. It turns red when you hover over an interactable object.
+    Custom Scripting - New SDK is going to be released very soon!
+    Updated name tags
+Bug Fixes
+    Improved avatar downloading
+    Room list correctly displays all available rooms
+    Tweaked Xbox controller input - sprint is left analog button
+    Kinect fixed
+
+v0.6.6 (1/18/2015)
+Features
+    Moved to x64 app
+    Dino World
+    Portal drop from room list
+Bug Fixes
+    Windowed mode works again
+    Room list updates better
+    Clean up memory better
+    Other small bug fixes
+
+v0.6.5 (12/23/2014)
+Features
+    Oculus SDK 0.4.4
+    Trap Dungeon World
+    Post Apocolypse World (buggy)
+    Roller Coaster
+Bug Fixes
+    Non-human avatars work again
+    Clean up animations
+
+v0.6.3 (12/10/2014)
+Features
+    In-game room list.
+    Dead avatars ragdoll.
+    Weapon player mod.
+    Error messages for network issues.
+    Improved default animation set.
+Bug Fixes
+    Choosing avatars from pedestal.
+    Players don't jiggle in stations anymore.
+    Smoother player walking.
+    Bad world URLs kick player to main menu.
+    Download bar doesn't jump from 0 to 100% when downloading.
+    Multiple persistent portals in a room work.
+    Muting a player works again.
+
+v0.6.2 (11/21/2014)
+Features
+    Players can drop portals to other worlds
+    Multiple spawns
+    Ability to give players health
+Bug Fixes
+    Player Menu works while falling.
+    Monitor app updates correctly.
+    Networked prop physics works better.
+    Players own their own collisions.
+    Players no longer see full room URL in monitor.
+
+Release Notes
+v0.6.1 (11/14/2014)
+Features
+    Upgraded OVR SDK to 0.4.3.1
+Bug Fixes
+    Fixed blurry textures for some users
+
+v0.6.0 (11/14/2014)
+Features
+    Added skybox in main menu
+    Basic first time user instruction
+
+v0.5.22 (11/13/2014)
+Features
+    Scroll bars in room list
+Bug Fixes
+    Crash in rift mode on some systems
+    oom player count is more accurate
+    Xbox Kinect Tweaks
+    VRChat Monitor autoupdate fix
+
+v0.5.21 (11/10/2014)
+Features
+    ScreenShot utility (F12)
+Bug Fixes
+    VRC_SimplePhysics works better
+    Custom URLs are now hidden
+    Passworded rooms have more protection
+    Users don't broadcast from hidden rooms
+    Rooms list loads much quicker
+    Blurry terrain fixed
+    UseText is no longer always on
+
+v0.5.20 (11/9/2014)
+Features
+    [WINDOWS] VRChat installer that allows VRChat rooms to be open directly via VRChat web links.
+    [WINDOWS] VRChat monitor application that notifies you when VRChat players have gotten online or opened a room.
+    Added automatic patch updater.
+    Full xbox controller support.
+    Avatars are able to sit in the Coffeeshop, Gallery and Meeting Room.
+    Menus updated to use mouse or gamepad for menu item selection.
+    Added settings menu that allows users to personalize control scheme and preferences.
+    Added control schemes such as comfort mode and walk in head look position.
+    Added toggle to talk option in settings menu.
+    Added passworded rooms.
+    Added option for persistent rooms.
+    Added option for hidden rooms.
+    Added "My Rooms" tab that allows users to join and close their persistent rooms.
+Bug Fixes
+    In game UI no longer clips with the world.
+    Console and in game menu placed relative to eye height.
+    Updated (better) Gallery skybox.
+    Room names no longer need to be unique.
+    Fixed random local and remote avatar jutter.
+    Player respawn sets velocity back to zero.
+    Fixed console output disappearing issue.
+    Avatars move their jaw when user is speaking.
+    Jump/fall animations are played across the network.
+    Players no longer hear queued up audio when entering a room.
+    Head orientation is no longer reset when reset is pressed while inputting text.
+    Custom URL dropdown lists are capped so lists don't go offscreen.
+
+v0.5.19 (10/8/2014)
+Features
+    Content creators can add stations to objects, such as sitting on a chair.
+    Content creators can add player modifications to rooms or use events, such as super speed.
+    Content creators can add slide shows to rooms.
+    Added the Presentation Room to the list of default rooms.
+    Support for Xbox Kinect 2
+Bug Fixes
+    Avatar heads no longer clip into the player's camera.
+    Avatars no longer jitter when standing on slopes.
+    Events are queued and executed for newly joined players.
+
+v0.5.18 (9/10/2014)
+Features
+    Updated w/ Oculus SDK 0.4.2
+Bug Fixes
+    Render optimizations

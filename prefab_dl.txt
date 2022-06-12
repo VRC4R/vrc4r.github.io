@@ -1,0 +1,37 @@
+VRChat used to have the ability to host rooms with world files hosted on other web servers. A few of these “user generated worlds” are, at the time of writing, currently hosted on a seperate "vrc-worlds" S3 bucket.
+
+All of these were sourced from this archived page:
+	https://archive.fo/E1ti0
+and are archived via the Wayback Machine and the Internet Archive.
+
+Sample Room
+By VRChat
+	https://s3.amazonaws.com/vrc-worlds/sample.unity3d
+	https://web.archive.org/web/20220522044945/https://s3.amazonaws.com/vrc-worlds/sample.unity3d
+
+The Hangar
+by Yunus Emre Yaman
+	https://s3.amazonaws.com/vrc-worlds/hangar.unity3d
+	https://web.archive.org/web/20220522044952/https://s3.amazonaws.com/vrc-worlds/hangar.unity3d
+
+Jump Chat
+by OlivierJT - Synthesis Universe
+	https://s3.amazonaws.com/vrc-worlds/jump_chat.unity3d
+	https://web.archive.org/web/20220522045534/https://s3.amazonaws.com/vrc-worlds/jump_chat.unity3d
+
+Super Jump Chat
+by OlivierJT - Synthesis Universe
+	https://s3.amazonaws.com/vrc-worlds/super_jump_chat.unity3d
+	https://web.archive.org/web/20220522045547/https://s3.amazonaws.com/vrc-worlds/super_jump_chat.unity3d
+
+Technolust Room
+by IRIS V.R.
+	http://jespionage.com/avatars/technolust2.unity3d
+	https://web.archive.org/web/20220522045846/http://jespionage.com/avatars/technolust2.unity3d
+	// Original dead link, listed here for archival purposes: http://avatar.cat/technolust2.unity3d
+
+3D Scanned SSVR Room
+by Stefan Pernar
+	http://jespionage.com/avatars/svvvr.unity3d
+	https://web.archive.org/web/20220522050010/http://jespionage.com/avatars/svvvr.unity3d
+	// Original dead link, listed here for archival purposes: http://avatar.cat/svvvr.unity3d
